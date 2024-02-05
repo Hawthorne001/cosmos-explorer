@@ -17,7 +17,7 @@
     "@types/meteor-universe-i18n": "^1.14.6",
     "babel-polyfill": "^6.26.0",
     "bech32": "^1.1.4",
-    "big.js": "^6.1.1",
+    "big.js": "^6.2.1",
     "bootstrap": "^4.6.1",
     "bootswatch": "^4.6.1",
     "chart.js": "^2.9.4",
